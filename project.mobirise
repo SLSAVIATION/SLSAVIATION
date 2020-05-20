@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SLS Aviation",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2961,7 +2961,7 @@
     "index.html": {
       "settings": {
         "meta_descr": "This Website is under construction.",
-        "title": "WIP",
+        "title": "SLS AVIATION WIP SITE",
         "order": 1
       },
       "components": [
@@ -2990,10 +2990,10 @@
         }
       ]
     },
-    "page5.html": {
+    "TEMPCONTACT.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Temp_Contactus",
+        "meta_descr": "Work in progress",
+        "title": "Contact us",
         "order": 2
       },
       "components": [

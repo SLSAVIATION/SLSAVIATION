@@ -1,0 +1,52 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 472.75 116.31">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 42.1px;
+        font-family: AXIS-ExtraBold, AXIS;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-6 {
+        fill: #444445;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.22em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.13em;
+      }
+
+      .cls-7 {
+        fill: #37b6ff;
+      }
+
+      .cls-8 {
+        fill: #5371ff;
+      }
+
+      .cls-9 {
+        fill: #d9d9d8;
+      }
+    </style>
+  </defs>
+  <title>sls logo</title>
+  <text class="cls-1" transform="translate(159.38 70.73) scale(1.02 1)">S<tspan class="cls-2" x="27.95" y="0">L</tspan><tspan x="54.6" y="0">S </tspan><tspan class="cls-3" x="92.53" y="0">A</tspan><tspan class="cls-4" x="118.51" y="0">VI</tspan><tspan class="cls-5" x="167.59" y="0">A</tspan><tspan x="197.35" y="0">TION</tspan></text>
+  <polygon class="cls-6" points="66.07 79.99 68.47 84.05 118.01 57.31 112.16 80.75 78.23 99.52 30.86 99.37 66.07 79.99"/>
+  <path class="cls-6" d="M63.85,299.52a46.33,46.33,0,0,1,4.22-8.37c1-1.45,1.92-3.07,3.12-4.84.72-1.06,1.53-2.18,2.48-3.35a67.8,67.8,0,0,1,8-9.07c9.65-8.37,23.61-16.3,44-17.56l13.49-19.85s20.44-26.81,58.22-47.11c0,0-6.08,1-25.85,6.74S109.78,218.78,76,273.67c0,0-4.94,8.57-6.39,11.53s-5.17,12.07-5.17,12.07" transform="translate(-61.47 -189.37)"/>
+  <path class="cls-7" d="M148.89,257.67s6.11-17.45,24.78-32.11l-32.67,18-2.89-4.12,53.33-28,6-22.07S150,212.74,126,255.85Z" transform="translate(-61.47 -189.37)"/>
+  <path class="cls-8" d="M148.89,257.67l33.83-17.39,5.95-21.89-15,7.17S155.83,238.88,149,257.38" transform="translate(-61.47 -189.37)"/>
+  <path class="cls-8" d="M61.19,305.93" transform="translate(-61.47 -189.37)"/>
+  <path class="cls-6" d="M61.47,305.68" transform="translate(-61.47 -189.37)"/>
+  <path class="cls-9" d="M61.47,305.68s14-61,87.42-48" transform="translate(-61.47 -189.37)"/>
+</svg>

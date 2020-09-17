@@ -2,6 +2,10 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+@font-face {
+	src: url(......../axis_extrabold-webfont.woff);
+}
+
 section {
   background-color: #eeeeee;
 }
